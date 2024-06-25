@@ -1,38 +1,22 @@
-# CDA_fil_rouge
+# Dossier de projet CDA
 
-Cette plateforme a pour but de centraliser des infos de manière collaborative autour de langages et de technologies web, favorisant également la veille techno et l’ouverture d’esprit au travers de différents articles liés à ce domaine.
+Ce document est un compte-rendu des compétences acquises dans le cadre de la formation préparant au titre de Concepteur Développeur d'Applications (CDA).  
+À travers la présentation d'un projet professionnel réalisé en groupe, le dossier de projet fera état des connaissances et compétences acquises tout au long des 18 derniers mois.  
 
 ## Table des matières
 
-1. [Liste des compétences du référentiel qui sont couvertes par le projet](#liste-des-compétences-du-référentiel-qui-sont-couvertes-par-le-projet)
-2. [Cahier des charges](#cahier-des-charges)
-3. [Résumé du projet](#résumé-du-projet)
-4. [Gestion de projet](#gestion-de-projet)
-5. [Spécifications fonctionnelles](#spécifications-fonctionnelles)
-6. [Spécifications techniques](#spécifications-techniques)
-7. [Réalisations](#réalisations)
-8. [Présentation du jeu d’essai](#présentation-du-jeu-dessai)
-9. [Veille](#veille)
-10. [Description d’une situation de travail ayant nécessité une recherche](#description-dune-situation-de-travail-ayant-nécessité-une-recherche)
+1. [Remerciements](./remerciements.md)
+2. [Liste des compétences du référentiel qui sont couvertes par le projet](#liste-des-compétences-du-référentiel-qui-sont-couvertes-par-le-projet)
+3. [Résumé du projet](./resume-du-projet.md)
+4. [Cahier des charges](#cahier-des-charges)
+5. [Gestion de projet](#gestion-de-projet)
+6. [Spécifications fonctionnelles](#spécifications-fonctionnelles)
+7. [Spécifications techniques](#spécifications-techniques)
+8. [Réalisations](#réalisations)
+9. [Présentation du jeu d’essai](#présentation-du-jeu-dessai)
+10. [Veille](#veille)
+11. [Description d’une situation de travail ayant nécessité une recherche](#description-dune-situation-de-travail-ayant-nécessité-une-recherche)
 
 ## Liste des compétences du référentiel qui sont couvertes par le projet
 
 ![reac](assets/reac.png)
-
-## Cahier des charges
-
-## Résumé du projet
-
-## Gestion de projet
-
-## Spécifications fonctionnelles
-
-## Spécifications techniques
-
-## Réalisations
-
-## Présentation du jeu d’essai
-
-## Veille
-
-## Description d’une situation de travail ayant nécessité une recherche
