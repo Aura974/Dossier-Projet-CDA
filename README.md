@@ -17,7 +17,7 @@ Cette plateforme a pour but de centraliser des infos de manière collaborative a
 
 ## Liste des compétences du référentiel qui sont couvertes par le projet
 
-![alt text](img/reac.png)
+![reac](assets/reac.png)
 
 ## Cahier des charges
 
