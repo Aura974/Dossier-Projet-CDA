@@ -9,7 +9,7 @@ Ce document est un compte-rendu des compétences acquises dans le cadre de la fo
 2. [Liste des compétences du référentiel qui sont couvertes par le projet](#liste-des-compétences-du-référentiel-qui-sont-couvertes-par-le-projet)
 3. [Résumé du projet](Résumé%20du%20projet/résumé_du_projet.md)
 4. [Cahier des charges](Cahier%20des%20charges/README.md)
-5. [Gestion de projet](Gestion%20de%20projet/gestion_de_projet.md)
+5. [Gestion de projet](Gestion%20de%20projet/README.md)
 6. [Spécifications fonctionnelles](Spécifications%20fonctionnelles/README.md)
 7. [Spécifications techniques](Spécifications%20techniques/README.md)
 8. [Réalisations](Réalisations/réalisations.md)
