@@ -13,7 +13,7 @@ Ce document est un compte-rendu des compétences acquises dans le cadre de la fo
 6. [Spécifications fonctionnelles](Spécifications%20fonctionnelles/README.md)
 7. [Spécifications techniques](Spécifications%20techniques/README.md)
 8. [Réalisations](Réalisations/réalisations.md)
-9. [Exemples](Exemples/README.md)
+9. [Présentation du jeu d'essai](Jeu%20d%27essai/README.md)
 10. [Veille](Veille/veille.md)
 11. [Et si c'était à refaire ?](Retrospective/retrospective.md)
 
